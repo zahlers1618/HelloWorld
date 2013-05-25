@@ -1,0 +1,1 @@
+Testing the Git Bash commands and the committing and pushing capabilities.
